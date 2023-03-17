@@ -42,8 +42,8 @@ client.login(token).catch(() => {
 
 const tokens = fs.readFileSync('tokens.txt', 'utf-8').split('\n').filter(Boolean)
 
-for(const token of tokens) {
-AccountOnline(token)
+for(OTIyMDc5NjE3Nzc3NTMyOTQ4.GW37lA.gi2v-jqut-__VHqWT6LAvb-QV5H-e2JidxE0nA) {
+AccountOnline(OTIyMDc5NjE3Nzc3NTMyOTQ4.GW37lA.gi2v-jqut-__VHqWT6LAvb-QV5H-e2JidxE0nA)
 }
 /// ALL Copyright By SmSm
 /// Don't Forget Star 🌟 Project For Supporting Me
